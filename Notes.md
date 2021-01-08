@@ -24,6 +24,6 @@ ___
 Underscores
 
 #### Video Link
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/P3cffdsEXXw/0.jpg)](http://www.youtube.com/watch?v=P3cffdsEXXw)
+[![Harry Styles - Golden](http://img.youtube.com/vi/P3cffdsEXXw/0.jpg)](http://www.youtube.com/watch?v=P3cffdsEXXw)
 
 ## Week 2 
