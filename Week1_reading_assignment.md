@@ -1,1 +1,10 @@
-This is a test
+
+[Leveraging Mobile Infrastructure with Data-Driven Decisions](https://engineering.atspotify.com/2020/07/22/leveraging-mobile-infrastructure-with-data-driven-decisions/)
+
+The blog I selected was published by Raul Herbster on the Spotify R&D Engineering website. To summarize, the blog stresses the importance of data in improving the infrastructure and producitivity of the development teams. For example, data allows for a smoother transitioning of knowledge across different fields. By creating an infograph on the percentage of people in a team who use each version of Xcode, it would be easy to find the version that might be best for another team to use. The company devised a scheme that includes 4 steps to shift the role of data in the mobile DevOps teams, which can be seen in the graph below: 
+
+![alt text](https://storage.googleapis.com/rnd-atspotify/2020/07/5e716777-s0cdzvcpxy7u07425e4wbug.png)
+
+The purpose of these steps is to create a system where data functions as a pipeline and a checkpoint. One of the many approaches that Spotify has adopted to make sure the proper functioning of data is by assigning an owner to each dashboard and the owner has to make sure that it is up to date and there is no regression. The blog also talks about how data can help predict trends that show when "systems will become inefficient if no action is taken." 
+
+Before doing this assignment, I have never thought about looking at the engineering blogs of companies like Spotify. Obviously, the analysis of user information and data of Spotify would be very interesting, but this blog showed me how data is closely related to the internal functioning of a company. While reading this article, I encountered a lot of terms that I am not familiar with, such as data pipelines and DevOps, but I was able to understand the main message, which is that data has become a crucial part of the Dev teams at Spotify. One of hte things that this blog made me aware of is that data can decay and we need to literally "take care of" it, so it would be important for me to check if the passing of time has affected the data and its interpretations. 
